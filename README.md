@@ -22,7 +22,7 @@ node index.js
 
 ## Usage
 Follow the prompts in your command line to generate your logo. You can see examples of logos generated with this application in the ./examples directory. This walkthrough video provides detailed instructions on this application's use:
-[Walkthrough Video]
+[Walkthrough Video](https://drive.google.com/file/d/1GELf27pr5-6tX2JApfwabVCfjAguDJXu/view)
 
 ## Tests
 The shapes.test.js file provides Jest tests for the shapes.js module. These tests require [Jest](https://jestjs.io/) to run.
